@@ -7,8 +7,8 @@ Main function. Calls on GUI helper file and handles high-level actions such clea
 ## **Helpers**
 Directory to hold back-end modules
 
-# **sudogui.py**
-Handles graphics and user interface. 
+  ### **sudogui.py**
+  Handles graphics and user interface. 
 
-# **sudoclass.py**
-Contains the sudoku class that handles generating initial board states, checking if board is valid, clearing the board, and solving. The primary backtracking function is contained here.
+  ### **sudoclass.py**
+  Contains the sudoku class that handles generating initial board states, checking if board is valid, clearing the board, and solving. The primary backtracking function is contained here.
